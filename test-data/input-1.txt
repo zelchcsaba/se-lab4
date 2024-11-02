@@ -1,0 +1,3 @@
+#urhajo,mely sosem hibazik
+GT4500,10,0,10,0
+TORPEDO,ALL #mindket TorpedoStore-t egyszerre sutjuk el

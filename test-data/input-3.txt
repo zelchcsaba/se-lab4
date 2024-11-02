@@ -1,0 +1,3 @@
+#urhajo,mely mindig hibazik
+GT4500,10,1.0,10,1.0
+TORPEDO,SINGLE #elsütjük az egyik TorpedoStore-t
