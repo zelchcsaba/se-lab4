@@ -1,0 +1,2 @@
+SUCCESS
+usage: TORPEDO,<SINGLE|ALL>
